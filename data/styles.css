@@ -98,6 +98,9 @@
 .sticky_2 {
   text-align:left;
 }
+.sticky_3 {
+  text-align:left;
+}
 .marker {
   color:#FFFFFF;
 }
@@ -356,5 +359,7 @@
 .box_3 {
 }
 .flow_shape1 {
+}
+.box_21 {
 }
 textarea, select, input, button { outline: none; }
